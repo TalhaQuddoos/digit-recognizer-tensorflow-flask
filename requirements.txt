@@ -27,7 +27,6 @@ attrs==20.3.0
 autobahn==17.10.1
 Automat==20.2.0
 backcall==0.2.0
-backdoor-factory==0.0.0
 backoff==1.11.1
 basemap==1.2.1
 bcrypt==3.1.7
@@ -51,7 +50,6 @@ chardet==4.0.0
 charset-normalizer==2.0.5
 CherryPy==8.9.1
 chirp==0.3.0.dev0
-chrome-gnome-shell==0.0.0
 click==8.0.1
 click-plugins==1.1.1
 colorama==0.4.4
@@ -69,7 +67,6 @@ debtags==2.1
 decorator==4.4.2
 defusedxml==0.6.0
 deprecation==2.0.7
-dhcpig==0.0.0
 dicttoxml==1.7.4
 distlib==0.3.1
 distro==1.5.0
@@ -126,7 +123,6 @@ hiredis==1.0.1
 hpack==4.0.0
 html2text==2020.1.16
 html5lib==1.1
-humanize==0.0.0
 hupper==1.10.2
 hyperframe==6.0.0
 hyperlink==19.0.0
@@ -199,7 +195,6 @@ numpy==1.21.2
 odfpy==1.4.1
 olefile==0.46
 openpyxl==3.0.3
-orjson==0.0.0
 packaging==20.9
 pandas==1.1.5
 parameterized==0.7.0
