@@ -5,5 +5,5 @@ Jinja2==3.0.1
 MarkupSafe==2.0.1
 numpy==1.21.2
 Pillow==8.3.2
-tflite-runtime==2.5.0.post1
+--index-url https://google-coral.github.io/py-repo/ tflite_runtime
 Werkzeug==2.0.1
