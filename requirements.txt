@@ -27,7 +27,7 @@ attrs==20.3.0
 autobahn==17.10.1
 Automat==20.2.0
 backcall==0.2.0
-backdoor-factory==2.2.0
+backdoor-factory==0.0.0
 backoff==1.11.1
 basemap==1.2.1
 bcrypt==3.1.7
