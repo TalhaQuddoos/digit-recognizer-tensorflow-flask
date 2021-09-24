@@ -9,7 +9,6 @@ app = Flask(__name__)
 def hello_world():
     return render_template("home.html")
 
-
 @app.route("/predict-digit", methods=["POST", "GET"])
 def predict_digit():
     image = request.get_json(silent=True)['image'].split(",")[1]

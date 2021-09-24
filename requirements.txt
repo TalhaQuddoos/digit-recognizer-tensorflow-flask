@@ -10,7 +10,7 @@ aioredis==1.3.1
 aiosqlite==0.16.1
 aiowinreg==0.0.3
 ajpy==0.0.4
-alembic==1.4.3.dev0
+alembic==1.4.3
 altgraph==0.17
 aniso8601==8.1.1
 anyio==0.0.0
