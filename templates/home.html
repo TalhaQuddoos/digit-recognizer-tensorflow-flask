@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Fancy Search Box // SVG + CSS + jQuery</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:300,400,500,600" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+
+</head>
+<body>
+<main>
+	<div class="container">
+		<h1>Digit Recognizer</h1>
+		<h2>Try below!</h2>
+		<div class="search-box">
+			<div class="draw-title">
+				Draw<br>a digit:
+			</div>
+			<div class="canvas-div">
+				<canvas id="canvas" width="112px" height="112px"></canvas>
+			</div>
+			<div class="buttons">
+				<button class="button" id="predictButton">Predict</button>
+				<button class="button" id="clearButton">Clear</button>
+			</div>
+			<div class="prediction-container">
+				<h3 class="prediction-heading">Prediction:</h3>
+				<div class="prediction-label">
+					<div class="prediction" id="prediction">?</div>
+          <div class="confidence" id="confidence"></div>
+				</div>
+			</div>
+		</div> 
+	</div>
+</main>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script  src="/static/script.js"></script>
+
+</body>
+</html>
